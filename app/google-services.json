@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "281172869635",
+    "firebase_url": "https://byariszafathurrahman-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "byariszafathurrahman",
+    "storage_bucket": "byariszafathurrahman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281172869635:android:32ff693694a084cd2c0436",
+        "android_client_info": {
+          "package_name": "com.example.hungercarebyariszafathurrahman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281172869635-9khes935ratod01crf409su67lmimsii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hungercarebyariszafathurrahman",
+            "certificate_hash": "667193b672152e5f8b42fae0a09337d8474443d5"
+          }
+        },
+        {
+          "client_id": "281172869635-solv74rb5ruh8jv9ru6kvo4kna2decbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqPn2tQrBKQlmsg6N6GuzK80E2Gpgdmws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281172869635-solv74rb5ruh8jv9ru6kvo4kna2decbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

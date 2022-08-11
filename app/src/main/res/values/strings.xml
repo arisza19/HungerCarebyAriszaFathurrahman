@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hunger Care by Arisza Fathurrahman</string>
+    <string name="logo_name">Hunger Care</string>
+    <string name="by_name">By Arisza Fathurrahman</string>
+    <string name="global_hunger_index"><u>Global Hunger Index</u>,</string>
+    <string name="article_head">Berdasarkan data dari</string>
+    <string name="article_p_one">pada tahun 2021 tingkat kelaparan di Indonesia berada pada urutan 11 tertinggi di Asia. Bahkan lebih parahnya lagi, tingkat kelaparan Indonesia menempati urutan ketiga tertinggi di Asia Tenggara dengan index 18 poin.</string>
+    <string name="article_p_two">Sementara, negara dengan tingkat kelaparan tertinggi di wilayah Asia Tenggara adalah Timor Leste, yakni mencapai 32,4 poin atau masuk dalam level serius. Laos berada di urutan berikutnya dengan skor 19,5 poin atau masuk level moderat.</string>
+    <string name="article_p_bridge">Mengapa angka kelaparan di Indonesia menjadi yang tertinggi ketiga di Asia Tenggara?</string>
+    <string name="article_p_three">Kita tahu bahwa Indonesia merupakan negara dengan peringkat penduduk terbanyak keempat di dunia dengan total populasi lebih dari 270 juta jiwa. Dengan angka populasi yang sebanyak ini, apakah sudah diimbangi dengan tingkat ekonomi yang baik? Sistem pendidikan dan kesehatan yang merata? Tingkat kesejahteraan sosial yang seimbang?</string>
+    <string name="article_p_four">Tingkat populasi yang tinggi tidak disertai dengan kesenjangan yang baik di masyarakat merupakan salah satu faktor utama terjadinya kelaparan. Selain itu, masih banyak lagi faktor yang menyebabkan tingginya tingkat kelaparan di Indonesia seperti ketidakcukupan konsumsi pangan, kekurangan gizi pada balita, malnutrisi yang terjadi pada anak-anak, perubahan iklim yang membuat produksi panen menurun, dan masih banyak lagi.</string>
+    <string name="article_p_five">Bagaimana cara mengatasi tingginya angka kelaparan di Indonesia? Apakah kita bisa membantu mengatasi tingkat kelaparan yang ada? Tentu bisa dong. Kita bisa membantu untuk mengurangi angka kelaparan dari hal yang kecil. Bagaimana caranya?</string>
+    <string name="article_p_six">Mari mulai dari hal yang kecil terlebih dahulu. Kita semua dapat bergabung dengan komunitas-komunitas yang biasa membantu teman-teman kelaparan di sekitar kita. Mulailah menjadi relawan dan mari kita bantu kurangi angka kelaparan di Indonesia.</string>
+    <string name="lihat_komunitas"><u>Di menu lihat komunitas</u>,</string>
+    <string name="article_p_seven">kalian bisa bergabung dengan teman-teman pegiat sosial yang akan membantu mereka yang kelaparan di luar sana.</string>
+</resources>
