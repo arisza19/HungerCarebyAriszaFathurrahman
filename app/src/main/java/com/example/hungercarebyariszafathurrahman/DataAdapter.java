@@ -11,6 +11,14 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
 
+/*
+
+    Created by Arisza Zufar Fathurrahman
+    10119237
+    IF6
+
+*/
+
 public class DataAdapter extends RecyclerView.Adapter<DataAdapter.DataViewHolder> {
 
     Context context;

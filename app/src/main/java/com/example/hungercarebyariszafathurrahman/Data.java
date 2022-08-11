@@ -1,5 +1,13 @@
 package com.example.hungercarebyariszafathurrahman;
 
+/*
+
+    Created by Arisza Zufar Fathurrahman
+    10119237
+    IF6
+
+*/
+
 public class Data {
 
     String no, nation, index;

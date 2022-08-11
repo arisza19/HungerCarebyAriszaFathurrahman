@@ -13,6 +13,14 @@ import android.widget.ImageView;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
 
+/*
+
+    Created by Arisza Zufar Fathurrahman
+    10119237
+    IF6
+
+*/
+
 public class HomeActivity extends AppCompatActivity {
 
 

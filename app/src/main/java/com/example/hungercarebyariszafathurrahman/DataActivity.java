@@ -18,6 +18,14 @@ import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
 
+/*
+
+    Created by Arisza Zufar Fathurrahman
+    10119237
+    IF6
+
+*/
+
 public class DataActivity extends AppCompatActivity {
 
     RecyclerView recyclerView;

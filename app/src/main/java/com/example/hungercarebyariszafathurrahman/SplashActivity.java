@@ -8,6 +8,14 @@ import android.os.Handler;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+/*
+
+    Created by Arisza Zufar Fathurrahman
+    10119237
+    IF6
+
+*/
+
 public class SplashActivity extends AppCompatActivity {
 
     @Override
